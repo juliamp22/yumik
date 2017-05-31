@@ -1,0 +1,6 @@
+float64 theta3
+geometry_msgs/Pose pose
+---
+ik[] ikSolutions 
+bool status
+
